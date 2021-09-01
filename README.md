@@ -53,8 +53,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Live Site URL: - <a href="https://pedro-testimonials-grid.netlify.app" target="_blank" alt="">testmonials-grid-section</a>
+
+
+
 
 ## My process
 
